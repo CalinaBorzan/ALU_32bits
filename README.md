@@ -79,9 +79,3 @@ All operations were validated to ensure **correct results** and **proper error h
 ## Why This Project?
 This project demonstrates strong skills in **digital design, VHDL programming, and FPGA implementation**. It showcases the ability to design and implement a **complex arithmetic-logical unit** with **error handling** and **sequential operation support**. This project is a valuable addition to my portfolio for roles in **hardware design, embedded systems, and digital logic engineering**.
 
-For any questions or feedback, feel free to reach out:
-
-**Name**: [Your Name]  
-**Email**: [Your Email]  
-**GitHub**: [Your GitHub Profile]
-
